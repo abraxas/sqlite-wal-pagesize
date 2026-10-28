@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/sqlite-wal-pagesize">sqlite-wal-pagesize</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/sqlite-wal-pagesize"><strong>https://abraxaslabs.tech/research/sqlite-wal-pagesize</strong></a>
+</p>
+
 
 # sqlite-wal-pagesize
 
